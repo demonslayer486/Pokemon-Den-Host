@@ -2,12 +2,12 @@
 
 // Module/Config/API Imports
 const Discord = require("discord.js");
-// const config = require("./config.json");
+//const config = require("./config.json");
 const fs = require("fs");
 
 // Bot Creation
 const client = new Discord.Client();
-client.config = config;
+//client.config = config;
 
 // Event loader with client.on setup in a for loop. No need for repeated code.
 // To ensure that event.bind() works, make sure event modules are written
