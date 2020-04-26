@@ -45,8 +45,8 @@ exports.creditsSprites = "[PkParaíso](https://pkparaiso.com) & [Ian Clail](http
 
 exports.creditsOthers = "All of the people over at [Pokémon Raiders](https://discordapp.com/invite/pokemonraiders) for the idea & their kindliness.";
 
-// Invites
-exports.inviteDescription = "Thank you so much for wanting Alcremie-B in your server! Below you'll find a link to add Alcremie-B without any permissions. If you'd like to use the %ping command, make sure to give Alcremie-B the Manage Roles Permission once she's there! Enjoy!\n[Click Here!](https://discordapp.com/api/oauth2/authorize?client_id=663505910580248587&permissions=0&scope=bot)";
+// Invites - Edited by @hypermilla
+exports.inviteDescription = "This is a re-host of the original Alcremie-Bot (by Droopy)! Below you'll find a link to add Alcremie-M to your server with basic message permissions. If you'd like to use the %ping command, make sure to give Alcremie Bot the Manage Roles Permission once she's there! Enjoy!\n[Click Here!](https://discordapp.com/oauth2/authorize?client_id=703830812772139138&scope=bot&permissions=281600)";
 
 
 // Presences
