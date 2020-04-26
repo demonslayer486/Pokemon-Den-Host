@@ -2,7 +2,7 @@ module.exports = {
   name: "Invite Link Command",
   cmdName: "invite",
   aliases: ["link"],
-  description: "Delivers an Alcremie-B invite link to allow Alcremie-B to join your server.",
+  description: "Delivers an Alcremie-M invite link to allow Alcremie-M to join your server.",
   args: false,
   usage: "{{prefix}}invite",
   example: "{{prefix}}invite",
