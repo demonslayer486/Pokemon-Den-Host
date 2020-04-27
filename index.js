@@ -2,8 +2,10 @@
 
 // Module/Config/API Imports
 const Discord = require("discord.js");
-const config = require("./config.json");
 const fs = require("fs");
+const config = require('dotenv').config({path: __dirname + '/.env'});
+
+
 
 // Bot Creation
 const client = new Discord.Client();

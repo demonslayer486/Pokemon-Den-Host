@@ -18,7 +18,7 @@ const botspeech = require("../modules/botspeech.js");
 
 const run = (client, message) => {
   // This will round the response time between when the message was received and when the message was sent
-  if (!(message.author.id == client.config.owner))
+  if (!(message.author.id == process.env.OWNER_ID))
   {
     message.reply(botspeech.permNotFound)
       .then()

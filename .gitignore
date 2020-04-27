@@ -1,4 +1,6 @@
 #Bot Private Config
+.env
+
 
 #Node.JS
 node_modules
