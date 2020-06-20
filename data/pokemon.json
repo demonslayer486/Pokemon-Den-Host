@@ -97,8 +97,14 @@
       "abilityH": "Chlorophyll"
     },
     "dens": {
-      "sword": [],
-      "shield": []
+      "sword": [        
+        "145",
+        "154"
+      ],
+      "shield": [
+        "145",
+        "154"
+      ]
     },
     "forms": [
       "Gigantamax",
