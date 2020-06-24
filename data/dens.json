@@ -9712,7 +9712,7 @@
             {
                 "name": "Charizard",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -9774,7 +9774,7 @@
             {
                 "name": "Charizard",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -9839,7 +9839,7 @@
             {
                 "name": "Drednaw",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -9901,7 +9901,7 @@
             {
                 "name": "Drednaw",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -9966,7 +9966,7 @@
             {
                 "name": "Flapple",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10028,7 +10028,7 @@
             {
                 "name": "Appletun",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10093,7 +10093,7 @@
             {
                 "name": "Centiskorch",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10155,7 +10155,7 @@
             {
                 "name": "Centiskorch",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10220,7 +10220,7 @@
             {
                 "name": "Machamp",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10282,7 +10282,7 @@
             {
                 "name": "Gengar",
                 "ability": "Standard",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10347,7 +10347,7 @@
             {
                 "name": "Alcremie",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10409,7 +10409,7 @@
             {
                 "name": "Alcremie",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10474,7 +10474,7 @@
             {
                 "name": "Coalossal",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10536,7 +10536,7 @@
             {
                 "name": "Lapras",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10601,7 +10601,7 @@
             {
                 "name": "Duraludon",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10663,7 +10663,7 @@
             {
                 "name": "Duraludon",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10728,7 +10728,7 @@
             {
                 "name": "Copperajah",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10790,7 +10790,7 @@
             {
                 "name": "Copperajah",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10855,7 +10855,7 @@
             {
                 "name": "Garbodor",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -10917,7 +10917,7 @@
             {
                 "name": "Garbodor",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -10982,7 +10982,7 @@
             {
                 "name": "Hatterene",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -11044,7 +11044,7 @@
             {
                 "name": "Hatterene",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -11109,7 +11109,7 @@
             {
                 "name": "Grimmsnarl",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -11171,7 +11171,7 @@
             {
                 "name": "Grimmsnarl",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -11236,7 +11236,7 @@
             {
                 "name": "Corviknight",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -11298,7 +11298,7 @@
             {
                 "name": "Corviknight",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -11363,7 +11363,7 @@
             {
                 "name": "Butterfree",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -11425,7 +11425,7 @@
             {
                 "name": "Butterfree",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -11490,7 +11490,7 @@
             {
                 "name": "Kingler",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -11552,7 +11552,7 @@
             {
                 "name": "Kingler",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -11617,7 +11617,7 @@
             {
                 "name": "Orbeetle",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -11679,7 +11679,7 @@
             {
                 "name": "Orbeetle",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -11744,7 +11744,7 @@
             {
                 "name": "Sandaconda",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -11806,7 +11806,7 @@
             {
                 "name": "Sandaconda",
                 "ability": "Hidden Possible",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -18348,7 +18348,7 @@
             {
                 "name": "Venusaur",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -18410,7 +18410,7 @@
             {
                 "name": "Venusaur",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -18475,7 +18475,7 @@
             {
                 "name": "Blastoise",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -18537,7 +18537,7 @@
             {
                 "name": "Blastoise",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -18602,7 +18602,7 @@
             {
                 "name": "Kingler",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -18664,7 +18664,7 @@
             {
                 "name": "Kingler",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -18729,7 +18729,7 @@
             {
                 "name": "Drednaw",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -18791,7 +18791,7 @@
             {
                 "name": "Drednaw",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -18856,7 +18856,7 @@
             {
                 "name": "Orbeetle",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -18918,7 +18918,7 @@
             {
                 "name": "Orbeetle",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -18983,7 +18983,7 @@
             {
                 "name": "Sandaconda",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -19045,7 +19045,7 @@
             {
                 "name": "Sandaconda",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
@@ -19110,7 +19110,7 @@
             {
                 "name": "Flapple",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ],
         "shield": [
@@ -19172,7 +19172,7 @@
             {
                 "name": "Appletun",
                 "ability": "Hidden Ability",
-                "gigantamax": false
+                "gigantamax": true
             }
         ]
     },
