@@ -381,7 +381,7 @@ exports.createEmbed = (flag, client, args) => {
   {
     const color = args.den >= 43 ? 12390624 : 10231623;
     embed.setColor(color);
-    embed.setImage(`https://github.com/lbbooga/lbbooga.github.io/raw/master/den%20images/den_${args.den}.png`);
+    embed.setImage(`https://caquillo07.github.io/data/dens/den_${args.den}.png`);
 
     embed.setTitle(`Den ${args.den}:`);
     embed.setURL(`https://www.serebii.net/swordshield/maxraidbattles/den${args.den}.shtml`);
