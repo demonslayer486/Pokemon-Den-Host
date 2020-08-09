@@ -5,7 +5,7 @@ const pokelists = require("../data/lists.js");
 
 
 // Footer credit for each embed the bot makes.
-const footerCred = "Alcremie-B - by Droopy";
+const footerCred = "Subframe V2 - by DemonS";
 
 let formsStr = "";
 pokelists.noncosmeticforms.forEach(form => (formsStr += " " + form + "|" + form + " |"));
