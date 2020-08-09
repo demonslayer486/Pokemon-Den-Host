@@ -16,22 +16,22 @@ const setPresence = async (client, num) => {
   switch (num)
   {
     case 0:
-      await client.user.setActivity(botspeech.presenceSmiles.replace(/{{count}}/, client.guilds.cache.size), { type:"PLAYING" })
+      await client.user.setActivity()
         .then()
         .catch(console.error);
       return;
     case 1:
-      await client.user.setActivity(botspeech.presenceChannels.replace(/{{count}}/, client.channels.cache.size), { type:"WATCHING" })
+      await client.user.setActivity()
         .then()
         .catch(console.error);
       return;
     case 2:
-      await client.user.setActivity(botspeech.presenceUsers.replace(/{{count}}/, client.users.cache.size), { type:"PLAYING" })
+      await client.user.setActivity()
         .then()
         .catch(console.error);
       return;
     case 3:
-      await client.user.setActivity(botspeech.presenceInvite, { type:"LISTENING" })
+      await client.user.setActivity()
         .then()
         .catch(console.error);
       return;
