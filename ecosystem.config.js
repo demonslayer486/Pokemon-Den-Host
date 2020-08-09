@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: "Alcremie-B",
+    name: "Subframe V2",
     script: "./index.js",
     watch: true,
     watch_delay: 1000,
