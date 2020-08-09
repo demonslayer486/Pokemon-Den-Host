@@ -34,8 +34,6 @@ exports.pokeCommands = "{{prefix}}den [Den Number | Pokémon Name]\n{{prefix}}ca
 
 exports.commandDescription = "[ ] Indicate required fields.\n( ) Indicate optional fields.\nUse * for shiny sprites.\n*Catch Rates are calculated under Raid Specific Conditions: Levels 30-70, 1 HP, and no status modifiers.*";
 
-exports.helpSupport = "[This is a re-host of the Original Alcremie-B bot. Need more help? Join Alcremie-B's support server!](https://discord.gg/ZZU77fz)\n[If you want to invite Alcremie-M to your server, click here](https://discordapp.com/oauth2/authorize?client_id=703830812772139138&scope=bot&permissions=281600)";
-
 // Credits
 exports.creditsDescription = "Many thanks to everyone listed below, as without them this bot wouldn't be possible:";
 
