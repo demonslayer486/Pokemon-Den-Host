@@ -610,7 +610,7 @@ exports.createEmbed = (flag, client, args) => {
 
     embed.addField("Admin & Guild Commands:", botspeech.adminCommands.replace(/{{prefix}}/g, args));
 
-    embed.addField("Support:", botspeech.helpSupport);
+   
 
     return embed;
   }
