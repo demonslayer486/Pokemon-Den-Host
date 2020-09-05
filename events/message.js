@@ -113,7 +113,7 @@ const isOwnerOrAdmin = async (author, guild) => {
 
 const setDefault = (client, guildId) => {
   const defaultSettings = {
-    prefix:"%",
+    prefix:"$",
     denpkmnonly:false,
     shinypkmnonly:false,
     restrictedchannels:[],
